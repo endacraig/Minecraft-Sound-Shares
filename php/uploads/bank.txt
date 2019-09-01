@@ -1,0 +1,11 @@
+ps3minecraft audio cuboid mapping
+
+start point
+x:3678.3
+y:0.0
+z:-7051.7
+
+end point
+x:3685.7
+y:0.0
+x:-7039.3
